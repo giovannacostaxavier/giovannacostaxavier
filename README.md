@@ -12,7 +12,8 @@
   <img align="center" alt="Gi-C" height="32" width="40" src="https://github.com/user-attachments/assets/8b262c85-734f-48e7-b0e1-937558847fc8">
   <img align="center" alt="Gi-java" height="35" width="40" src="https://github.com/user-attachments/assets/ae10a033-b8b6-4eea-ba81-a165cc0298db">
   <img align="center" alt="Gi-java" height="30" width="40" src="https://github.com/user-attachments/assets/d4fae9d7-f8c9-4efc-ba8c-ef1e33f1aba4">
-
+ ##
+  
   ![snake gif](https://github.com/giovannacostaxavier/giovannacostaxavier/blob/output/github-contribution-grid-snake.gif)
 </div>
   
