@@ -1,6 +1,6 @@
 ## Olá !! Eu sou a Giovanna Xavier 
 
-
+![snake gif](https://github.com/giovannacostaxavier/giovannacostaxavier/blob/output/github-contribution-grid-snake.gif)
 
 -  Estudante de engenharia de software.
 -  Desenvolvedora front end em formação.
