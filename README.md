@@ -1,4 +1,4 @@
-## Olá !! Eu sou a Giovanna Xavier 
+## Olá !! Me chamo Giovanna Xavier 
 
 
 -  Estudante de engenharia de software.
