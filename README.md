@@ -14,7 +14,9 @@
   <img align="center" alt="Gi-java" height="30" width="40" src="https://github.com/user-attachments/assets/d4fae9d7-f8c9-4efc-ba8c-ef1e33f1aba4">
  
 </div>
-  
+
+  ![snake gif](https://github.com/giovannacostaxavier/giovannacostaxavier/blob/output/github-contribution-grid-snake.gif)
+
   ##
  
 <div> 
