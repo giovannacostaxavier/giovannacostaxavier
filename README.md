@@ -15,7 +15,7 @@
  
 </div>
 
-  ![snake gif](https://github.com/giovannacostaxavier/giovannacostaxavier/blob/output/github-contribution-grid-snake.gif)
+  
 
   ##
  
