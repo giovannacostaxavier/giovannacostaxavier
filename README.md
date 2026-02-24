@@ -5,6 +5,7 @@
 -  Desenvolvedora front end em formação.
 -  Aprendendo JavaScript. 
 -  Pronomes: Ela/Dela.
+-  Curiosidade: Programo melhor depois de uma ou duas xícaras de café (ou três).
 <div style="display: inline_block"><br>
   <img align="center" alt="Gi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
