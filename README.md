@@ -1,11 +1,19 @@
-## Olá !! Me chamo Giovanna Xavier 
+# Olá!! Eu chamo Giovanna Xavier 
 
+- 🎓 Estudante de Engenharia de Software – apaixonada por criar soluções digitais.
+- 💻 Desenvolvedora front-end em formação.
+- ☕ Eu programo melhor depois de uma ou duas xícaras de café (ou três).
 
--  Estudante de Engenharia de Software – sou apaixonada por criar soluções digitais.
--  Desenvolvedora front-end em formação – explorando HTML, CSS, JavaScript e React.
--  Aprendendo JavaScript e React – aprimorando minhas habilidades e construindo projetos práticos.
--  Pronomes: ela/dela.
--  Curiosidade: Eu programo melhor depois de uma ou duas xícaras de café (ou três).
+---
+
+## 🎯 Objetivos & Foco Atual
+
+🎯 Foco atual: Desenvolvimento Front-End  
+📚 Estudando: JavaScript moderno e React  
+🚀 Objetivo: Conquistar minha primeira oportunidade como desenvolvedora front-end e contribuir com projetos reais.
+
+---
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Gi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
