@@ -1,6 +1,6 @@
 # Olá!! Eu chamo Giovanna Xavier 
 
-- 🎓 Estudante de Engenharia de Software – evoluindo através da criação de soluções digitais.
+- 🎓 Estudante de Engenharia de Software – transformando problemas reais em soluções tecnológicas.
 - 💻 Desenvolvedora front-end em formação.
 - ☕ Eu programo melhor depois de uma ou duas xícaras de café (ou três).
 
