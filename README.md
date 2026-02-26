@@ -1,7 +1,7 @@
 ## Olá !! Me chamo Giovanna Xavier 
 
 
--  Estudante de Engenharia de Software – apaixonada por criar soluções digitais.
+-  Estudante de Engenharia de Software – sou apaixonada por criar soluções digitais.
 -  Desenvolvedora front-end em formação – explorando HTML, CSS, JavaScript e React.
 -  Aprendendo JavaScript e React – aprimorando minhas habilidades e construindo projetos práticos.
 -  Pronomes: ela/dela.
