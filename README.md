@@ -1,4 +1,4 @@
-# Olá! Eu chamo Giovanna Xavier 
+# Olá! Eu me chamo Giovanna Xavier 
 
 - 🎓 Estudante de Engenharia de Software – inspirada a desenvolver soluções digitais que geram impacto.
 - 💻 Desenvolvedora front-end em formação.
