@@ -1,4 +1,6 @@
-# Olá! Eu me chamo Giovanna Xavier 
+# 🚀 Giovanna Xavier
+
+**`Desenvolvedora Front-End Júnior | Estudante de Tecnologia`**
 
 - 🎓 Estudante de Engenharia de Software – inspirada a desenvolver soluções digitais que geram impacto.
 - 💻 Desenvolvedora front-end em formação.
@@ -8,9 +10,8 @@
 
 ## 🎯 Objetivos & Foco Atual
 
-🎯 Foco atual: Desenvolvimento Front-End  
-📚 Estudando: JavaScript moderno e React  
-🚀 Objetivo: Conquistar minha primeira oportunidade como desenvolvedora front-end e contribuir com projetos reais.
+- 📚 Estudando: JavaScript moderno e React  
+- 🚀 Objetivo: Conquistar minha primeira oportunidade como desenvolvedora front-end e contribuir com projetos reais.
 
 ---
 
