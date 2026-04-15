@@ -14,7 +14,7 @@
 
 ---
 
-<table><tr>
+<table cellspacing="0" cellpadding="0" border="0"><tr>
   <td><img alt="Gi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
   <td><img alt="Gi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
   <td><img alt="Gi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
