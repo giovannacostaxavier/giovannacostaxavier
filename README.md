@@ -14,13 +14,7 @@
 
 ---
 
-<table border="0"><tr>
-  <td><img alt="Gi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
-  <td><img alt="Gi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
-  <td><img alt="Gi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
-  <td><img alt="Gi-react" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"></td>
-  <td><img alt="Gi-java" height="30" width="40" src="https://github.com/user-attachments/assets/d4fae9d7-f8c9-4efc-ba8c-ef1e33f1aba4"></td>
-</tr></table>
+<img alt="Gi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;<img alt="Gi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;<img alt="Gi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;<img alt="Gi-react" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">&nbsp;<img alt="Gi-java" height="30" width="40" src="https://github.com/user-attachments/assets/d4fae9d7-f8c9-4efc-ba8c-ef1e33f1aba4">
   
 
   ##
