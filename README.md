@@ -3,14 +3,14 @@
 **`Desenvolvedora Front-End Júnior | Estudante de Tecnologia`**
 
 - 🎓 Estudante de Engenharia de Software – inspirada a desenvolver soluções digitais que geram impacto.
-- 💻 Desenvolvedora front-end em formação.
+- 💻 Base sólida em JavaScript, aplicando esse conhecimento agora em React.
 - ☕ Eu programo melhor depois de uma ou duas xícaras de café (ou três).
 
 ---
 
 ## 🎯 Objetivos & Foco Atual
 
-- 📚 Estudando: JavaScript moderno e React  
+- 📚 Estudando: React (components, hooks, integração com APIs) 
 - 🚀 Objetivo: Conquistar minha primeira oportunidade como desenvolvedora front-end e contribuir com projetos reais.
 
 ---
