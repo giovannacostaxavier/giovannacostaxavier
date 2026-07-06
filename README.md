@@ -3,6 +3,9 @@
 - 🎓 Estudante de Engenharia de Software – inspirada a desenvolver soluções digitais que geram impacto.
 - 💻 Base sólida em JavaScript, aplicando esse conhecimento agora em React.
 - ☕ Eu programo melhor depois de uma ou duas xícaras de café (ou três).
+
+🌸 **[Confira meu portfólio completo aqui](https://projeto-portiifolio.vercel.app/)** 🌸
+
 ---
 ## 🎯 Objetivos & Foco Atual
 - 📚 Estudando: React (components, hooks, integração com APIs) 
@@ -27,4 +30,3 @@
   <a href="https://www.linkedin.com/in/giovanna-costa-xavier" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
