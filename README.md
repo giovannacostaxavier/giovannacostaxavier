@@ -23,7 +23,7 @@
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://github.com/user-attachments/assets/d4fae9d7-f8c9-4efc-ba8c-ef1e33f1aba4"/>
 <br/>
 <br/>
-##
+
 <div> 
   <a href="https://projeto-portiifolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-black?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.instagram.com/eugixavier?igsh=eG1keW03dWZmaGZo&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
