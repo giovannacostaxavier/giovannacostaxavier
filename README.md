@@ -1,6 +1,6 @@
 # 🚀 Giovanna Xavier
 **`Desenvolvedora Fullstack JavaScript`**
-- 🎓 Formação em Engenharia de Software (Brasil) + Especialização em Sistemas de Informação (Portugal).
+- 🎓 Em formação em Engenharia de Software (Brasil) + Especialização em Sistemas de Informação (Portugal).
 - 💻 No front-end, construo interfaces modernas e escaláveis com React, TypeScript e Tailwind CSS.
 - 🔗 No back-end, desenvolvo APIs REST com Node.js e modelo bases de dados relacionais com PostgreSQL.
 - ☕ Eu programo melhor depois de uma ou duas xícaras de café (ou três).
