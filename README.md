@@ -6,7 +6,7 @@ Estudante de Engenharia de Software e Técnica Especialista em Sistemas Informá
 
 Desenvolvo aplicações full stack utilizando React, TypeScript, Node.js, Express e PostgreSQL, com foco em APIs REST, autenticação JWT e boas práticas de desenvolvimento.
 
-Atualmente, desenvolvo projetos full stack para aprofundar meus conhecimentos em desenvolvimento web e busco uma oportunidade como Desenvolvedora Full Stack Júnior.
+Atualmente, desenvolvo projetos full stack para aprofundar meus conhecimentos em desenvolvimento web e busco uma oportunidade para aplicar e evoluir minhas competências em uma equipa de desenvolvimento.
 
 <br>
 
