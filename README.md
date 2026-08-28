@@ -33,9 +33,6 @@ Atualmente, desenvolvo projetos full stack para aprofundar meus conhecimentos em
 - 🧩 Boas práticas de desenvolvimento, APIs REST e arquitetura de aplicações
 
 <br>
-<br>
-
-
 
 ## 💻 Tecnologias que utilizo
 
@@ -60,6 +57,7 @@ Atualmente, desenvolvo projetos full stack para aprofundar meus conhecimentos em
 <br/>
 <br/>
 <br/>
+
 
 
 
